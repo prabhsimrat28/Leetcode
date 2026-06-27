@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prabhsimrat28/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/prabhsimrat28/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prabhsimrat28/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/prabhsimrat28/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Union-Find
 |  |
 | ------- |
