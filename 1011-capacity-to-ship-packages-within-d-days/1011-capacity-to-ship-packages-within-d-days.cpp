@@ -33,7 +33,6 @@ public:
         while(low<=high)
         {
             int mid=low+(high-low)/2;
-            cout<<mid<<endl;
             if(valid(mid,days,weights))
             {
                 sum=mid;
