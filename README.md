@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/prabhsimrat28/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prabhsimrat28/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1020-number-of-enclaves](https://github.com/prabhsimrat28/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/prabhsimrat28/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prabhsimrat28/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1020-number-of-enclaves](https://github.com/prabhsimrat28/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/prabhsimrat28/Leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prabhsimrat28/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/prabhsimrat28/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1539-kth-missing-positive-number](https://github.com/prabhsimrat28/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -62,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [1020-number-of-enclaves](https://github.com/prabhsimrat28/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/prabhsimrat28/Leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [1020-number-of-enclaves](https://github.com/prabhsimrat28/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
 |  |
 | ------- |
