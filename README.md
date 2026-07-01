@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/prabhsimrat28/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/prabhsimrat28/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/prabhsimrat28/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prabhsimrat28/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prabhsimrat28/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/prabhsimrat28/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prabhsimrat28/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/prabhsimrat28/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/prabhsimrat28/Leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/prabhsimrat28/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prabhsimrat28/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
