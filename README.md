@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/prabhsimrat28/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0127-word-ladder](https://github.com/prabhsimrat28/Leetcode/tree/master/0127-word-ladder) |
 ## Tree
 |  |
