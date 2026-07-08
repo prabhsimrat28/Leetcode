@@ -2,7 +2,7 @@ class Solution {
 public:
 
 
-    void fun(vector<int> &nums,vector<vector<int>> &ans,vector<int> ds,int i,int target,int &k)
+    void fun(vector<int> &nums,vector<vector<int>> &ans,vector<int> &ds,int i,int target,int &k)
     {
         if(ds.size()==k)
         {
@@ -12,7 +12,7 @@ public:
             }
             return;
         }
-        if(i==nums.size())
+        if(i==nums.size() || target<0)
         return;
 
         ds.push_back(nums[i]);
