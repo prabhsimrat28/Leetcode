@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0090-subsets-ii) |
 | [0733-flood-fill](https://github.com/prabhsimrat28/Leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prabhsimrat28/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/prabhsimrat28/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/prabhsimrat28/Leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/prabhsimrat28/Leetcode/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
