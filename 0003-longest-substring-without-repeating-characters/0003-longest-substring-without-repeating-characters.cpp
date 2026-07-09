@@ -6,7 +6,7 @@ public:
         {
             return n;
         }
-        unordered_map<int,int> occ;
+        unordered_map<char,int> occ;
         occ[s[0]]=0;
         int i=0,j=1;
         int len=0;
