@@ -183,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prabhsimrat28/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/prabhsimrat28/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
