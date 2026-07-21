@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/prabhsimrat28/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/prabhsimrat28/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/prabhsimrat28/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prabhsimrat28/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/prabhsimrat28/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/prabhsimrat28/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/prabhsimrat28/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0127-word-ladder](https://github.com/prabhsimrat28/Leetcode/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/prabhsimrat28/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/prabhsimrat28/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/prabhsimrat28/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prabhsimrat28/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Tree
