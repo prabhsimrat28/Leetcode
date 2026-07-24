@@ -3,13 +3,13 @@ public:
     string removeOuterParentheses(string s) {
         int cursum=0;
         string ans="";
-        for(int i=0;i<s.size();i++)
+        for(char c:s)
         {
-            if(s[i]=='(')
+            if(c=='(')
             {
                 if(cursum>0)
                 {
-                    ans=ans+s[i];
+                    ans=ans+c;
                 }
                 cursum++;
             }
@@ -18,7 +18,7 @@ public:
                 cursum--;
                 if(cursum>0)
                 {
-                    ans+=s[i];
+                    ans+=c;
                 }
             }     
         }
