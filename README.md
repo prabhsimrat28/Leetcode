@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/prabhsimrat28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/prabhsimrat28/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/prabhsimrat28/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/prabhsimrat28/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/prabhsimrat28/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prabhsimrat28/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prabhsimrat28/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhsimrat28/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/prabhsimrat28/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prabhsimrat28/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
