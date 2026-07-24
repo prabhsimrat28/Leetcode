@@ -3,24 +3,26 @@ public:
     string removeOuterParentheses(string s) {
         int cursum=0;
         string ans="";
+        stack<char> st;
         for(char c:s)
         {
-            if(c=='(')
+            if(st.empty())
             {
-                if(cursum>0)
-                {
-                    ans=ans+c;
-                }
-                cursum++;
+                st.push('(');
+            }     
+            else if(!st.empty() && c=='(')
+            {
+                ans+=c;
+                st.push('(');
             }
             else
             {
-                cursum--;
-                if(cursum>0)
+                st.pop();
+                if(!st.empty())
                 {
                     ans+=c;
                 }
-            }     
+            }
         }
         return ans;
     }
