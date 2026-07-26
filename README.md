@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/prabhsimrat28/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/prabhsimrat28/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/prabhsimrat28/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/prabhsimrat28/Leetcode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/prabhsimrat28/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prabhsimrat28/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prabhsimrat28/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/prabhsimrat28/Leetcode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/prabhsimrat28/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/prabhsimrat28/Leetcode/tree/master/1922-count-good-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prabhsimrat28/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prabhsimrat28/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/prabhsimrat28/Leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/prabhsimrat28/Leetcode/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
