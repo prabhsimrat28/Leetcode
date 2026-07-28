@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/prabhsimrat28/Leetcode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/prabhsimrat28/Leetcode/tree/master/0846-hand-of-straights) |
+| [0992-subarrays-with-k-different-integers](https://github.com/prabhsimrat28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhsimrat28/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prabhsimrat28/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/prabhsimrat28/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/prabhsimrat28/Leetcode/tree/master/0127-word-ladder) |
 | [0451-sort-characters-by-frequency](https://github.com/prabhsimrat28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/prabhsimrat28/Leetcode/tree/master/0846-hand-of-straights) |
+| [0992-subarrays-with-k-different-integers](https://github.com/prabhsimrat28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhsimrat28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0992-subarrays-with-k-different-integers](https://github.com/prabhsimrat28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhsimrat28/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prabhsimrat28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/prabhsimrat28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## String Matching
 |  |
 | ------- |
