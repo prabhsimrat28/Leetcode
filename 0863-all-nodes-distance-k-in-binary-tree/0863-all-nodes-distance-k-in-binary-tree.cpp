@@ -10,8 +10,6 @@
 class Solution {
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        if(k==0)
-        return {target->val};
         unordered_map<TreeNode *,TreeNode *> par;
         queue<TreeNode *> q;
         q.push(root);
@@ -40,6 +38,8 @@ public:
         
         while(!targetnode.empty())
         {
+            if(k==0)
+            break;
             int s=targetnode.size();
             for(int i=0;i<s;i++)
             {
@@ -63,8 +63,6 @@ public:
                 }
             }
             k--;
-            if(k==0)
-            break;
         }
 
         vector<int> ans;
