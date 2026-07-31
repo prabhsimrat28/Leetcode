@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/prabhsimrat28/Leetcode/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/prabhsimrat28/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prabhsimrat28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prabhsimrat28/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prabhsimrat28/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/prabhsimrat28/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -272,12 +274,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/prabhsimrat28/Leetcode/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/prabhsimrat28/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/prabhsimrat28/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prabhsimrat28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/prabhsimrat28/Leetcode/tree/master/0846-hand-of-straights) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/prabhsimrat28/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prabhsimrat28/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prabhsimrat28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prabhsimrat28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
 | ------- |
