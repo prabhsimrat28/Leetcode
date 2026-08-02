@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/prabhsimrat28/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/prabhsimrat28/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0400-nth-digit](https://github.com/prabhsimrat28/Leetcode/tree/master/0400-nth-digit) |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhsimrat28/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prabhsimrat28/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/prabhsimrat28/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prabhsimrat28/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/prabhsimrat28/Leetcode/tree/master/0231-power-of-two) |
+| [0400-nth-digit](https://github.com/prabhsimrat28/Leetcode/tree/master/0400-nth-digit) |
 | [1903-largest-odd-number-in-string](https://github.com/prabhsimrat28/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/prabhsimrat28/Leetcode/tree/master/1922-count-good-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prabhsimrat28/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
