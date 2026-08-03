@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prabhsimrat28/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prabhsimrat28/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhsimrat28/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prabhsimrat28/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prabhsimrat28/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/prabhsimrat28/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prabhsimrat28/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prabhsimrat28/Leetcode/tree/master/0070-climbing-stairs) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prabhsimrat28/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/prabhsimrat28/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/prabhsimrat28/Leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/prabhsimrat28/Leetcode/tree/master/1922-count-good-numbers) |
