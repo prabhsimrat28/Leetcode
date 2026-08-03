@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prabhsimrat28/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhsimrat28/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prabhsimrat28/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prabhsimrat28/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhsimrat28/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/prabhsimrat28/Leetcode/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/prabhsimrat28/Leetcode/tree/master/0475-heaters) |
