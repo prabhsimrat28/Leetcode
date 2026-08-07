@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prabhsimrat28/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/prabhsimrat28/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/prabhsimrat28/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prabhsimrat28/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/prabhsimrat28/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/prabhsimrat28/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhsimrat28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/prabhsimrat28/Leetcode/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/prabhsimrat28/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/prabhsimrat28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhsimrat28/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/prabhsimrat28/Leetcode/tree/master/0846-hand-of-straights) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/prabhsimrat28/Leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/prabhsimrat28/Leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/prabhsimrat28/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/prabhsimrat28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/prabhsimrat28/Leetcode/tree/master/0475-heaters) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prabhsimrat28/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/prabhsimrat28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prabhsimrat28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prabhsimrat28/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/prabhsimrat28/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/prabhsimrat28/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Monotonic Stack
 |  |
@@ -413,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/prabhsimrat28/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prabhsimrat28/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
