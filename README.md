@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/prabhsimrat28/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prabhsimrat28/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/prabhsimrat28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/prabhsimrat28/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabhsimrat28/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prabhsimrat28/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prabhsimrat28/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/prabhsimrat28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/prabhsimrat28/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/prabhsimrat28/Leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/prabhsimrat28/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhsimrat28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/prabhsimrat28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/prabhsimrat28/Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/prabhsimrat28/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/prabhsimrat28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
