@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/prabhsimrat28/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/prabhsimrat28/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prabhsimrat28/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prabhsimrat28/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/prabhsimrat28/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prabhsimrat28/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/prabhsimrat28/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/prabhsimrat28/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/prabhsimrat28/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prabhsimrat28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prabhsimrat28/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prabhsimrat28/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/prabhsimrat28/Leetcode/tree/master/0231-power-of-two) |
 | [0400-nth-digit](https://github.com/prabhsimrat28/Leetcode/tree/master/0400-nth-digit) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prabhsimrat28/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/prabhsimrat28/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/prabhsimrat28/Leetcode/tree/master/1922-count-good-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prabhsimrat28/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -309,12 +312,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/prabhsimrat28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhsimrat28/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/prabhsimrat28/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prabhsimrat28/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prabhsimrat28/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/prabhsimrat28/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhsimrat28/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prabhsimrat28/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prabhsimrat28/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
