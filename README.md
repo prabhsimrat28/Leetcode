@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prabhsimrat28/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/prabhsimrat28/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/prabhsimrat28/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/prabhsimrat28/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabhsimrat28/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/prabhsimrat28/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/prabhsimrat28/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prabhsimrat28/Leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/prabhsimrat28/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/prabhsimrat28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prabhsimrat28/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhsimrat28/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/prabhsimrat28/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/prabhsimrat28/Leetcode/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/prabhsimrat28/Leetcode/tree/master/0475-heaters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhsimrat28/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
