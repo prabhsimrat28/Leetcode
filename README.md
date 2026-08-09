@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/prabhsimrat28/Leetcode/tree/master/0475-heaters) |
 | [0518-coin-change-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/prabhsimrat28/Leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/prabhsimrat28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prabhsimrat28/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/prabhsimrat28/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/prabhsimrat28/Leetcode/tree/master/0735-asteroid-collision) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prabhsimrat28/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/prabhsimrat28/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/prabhsimrat28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/prabhsimrat28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhsimrat28/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/prabhsimrat28/Leetcode/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/prabhsimrat28/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prabhsimrat28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/prabhsimrat28/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhsimrat28/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prabhsimrat28/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
