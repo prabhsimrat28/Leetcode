@@ -30,7 +30,7 @@ public:
 
 
     int splitArray(vector<int>& nums, int k) {
-        int low=0,high=0;
+        int low=*max_element(nums.begin(),nums.end()),high=0;
         int ans=-1;
         for(int i:nums)
         {
