@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prabhsimrat28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/prabhsimrat28/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prabhsimrat28/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/prabhsimrat28/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabhsimrat28/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prabhsimrat28/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhsimrat28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/prabhsimrat28/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prabhsimrat28/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/prabhsimrat28/Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/prabhsimrat28/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/prabhsimrat28/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prabhsimrat28/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhsimrat28/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prabhsimrat28/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhsimrat28/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhsimrat28/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/prabhsimrat28/Leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prabhsimrat28/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prabhsimrat28/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prabhsimrat28/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhsimrat28/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhsimrat28/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/prabhsimrat28/Leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prabhsimrat28/Leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prabhsimrat28/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/prabhsimrat28/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/prabhsimrat28/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Monotonic Stack
